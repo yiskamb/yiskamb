@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Yiska;Data+Scientist+Enthusiast...;"/>
  
-<p>- <i>I'm Data Scientist Enthusiast from Sanata Dharma University, pursuing a degree in Informatics. My passion lies in Data Science, Machin learning, and I am dedicated to expanding my knowledge and skills in this field. To enhance my learning. I am always open to new opportunities and connections within the tech community.
+<p>- <i>I'm Data Scientist Enthusiast from Sanata Dharma University, pursuing a degree in Informatics. My passion lies in Data Science, Machine learning, and I am dedicated to expanding my knowledge and skills in this field. To enhance my learning. I am always open to new opportunities and connections within the tech community.
 </i></p>
 
 
